@@ -1,0 +1,8 @@
+mean_score: -80.0814210204501
+std_score: 21.64277488962301
+min_score: -203.6760553529486
+max_score: -49.113283770928135
+mean_episode_length: 1407.5988023952095
+std_episode_length: 484.3339446896177
+min_episode_length: 45
+max_episode_length: 1600

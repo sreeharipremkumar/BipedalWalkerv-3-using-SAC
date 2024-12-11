@@ -1,0 +1,8 @@
+mean_reward: 223.71002452500002
+std_reward: 170.83058813702112
+min_reward: -222.764723
+max_reward: 329.299413
+mean_episode_length: 771.3345
+std_episode_length: 367.1446943777753
+min_episode_length: 38
+max_episode_length: 1600
